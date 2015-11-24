@@ -2,7 +2,7 @@
 
 A setup to render document using the LNU template using Markdown and Pandoc.
 
-After installing Pandoc and pdflatex a script and  convert markdown to a stylish pdf.
+After installing Pandoc and pdflatex just run a script to convert your markdown to a stylish pdf.
 For more information on Pandoc and pdflatex see [installing pandoc](http://pandoc.org/installing.html).
 
 Based on the the LaTeX-template for degree projects at LNU, Department of Computer Science
