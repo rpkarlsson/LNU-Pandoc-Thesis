@@ -22,7 +22,7 @@ Is also inspired and borrows heavily from Tom Pollard's [phd_thesis_markdown](ht
 - [ ] Fix table reference number
 - [ ] Fix table reference position
 - [ ] Include diagram in example with reference
-- [ ] Add preface option
+- [x] Add preface option
 - [ ] Fix LaTeX template (I dont know what I'm doing...)
 
 

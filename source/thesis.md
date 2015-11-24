@@ -15,6 +15,12 @@ abstract: "The report shall begin with a summary, called abstract. The abstract 
     From reading the abstract the reader should clearly understand what the report is all about.
     The purpose of the abstract is to make the reader interested in continue reading the report,
     if it covers something that the reader wants to know more about."
+preface: "You can have a preface in the report if you want, but it is not necessary. In this you can write 
+    more personal reflections on your thesis project. In the preface you can also take the opportunity to 
+    thank the people who have been particularly helpful during the report writing, for example if you had 
+    any contact with a company that helped with the project, people that guided or helped you during the 
+    project, or your family and friends that supported you during the project. The preface shall not be 
+    longer than half a page."
 ---
 
 # Introduction
