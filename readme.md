@@ -12,5 +12,4 @@ Linnaeus University
 
 [Original found at LNU's homepage.](https://coursepress.lnu.se/subject/thesis-projects/report/)
 
-
-Uses the Creative Commons BY license. The same as the original.
+Is inspired and borrows heavily from Tom Pollard's [phd_thesis_markdown](https://github.com/tompollard/phd_thesis_markdown)
