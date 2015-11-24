@@ -14,6 +14,18 @@ Is also inspired and borrows heavily from Tom Pollard's [phd_thesis_markdown](ht
 - [Orignal LaTeX](https://mymoodle.lnu.se/mod/resource/view.php?id=537177) rendered with LaTeX
 - [Original found at LNU's homepage.](https://coursepress.lnu.se/subject/thesis-projects/report/)
 
+
+## Todo
+- [ ] Move all frontpage parameters to frontmatter values and only show if provided
+- [ ] Fix table layouts to mirror original better
+- [ ] Fix table dividor
+- [ ] Fix table reference number
+- [ ] Fix table reference position
+- [ ] Include diagram in example with reference
+- [ ] Add preface option
+- [ ] Fix LaTeX template (I dont know what I'm doing...)
+
+
 ## Linux / OS X instructions
 ### Requirements
  - pandoc
@@ -32,14 +44,3 @@ make
 
 ### Run
 Run the script `build-pdf.ps1` to build the .md-file in `source` and create a .pdf-file in the folder `output`. If build fails, run the script from powershell to see the error messages. For more instructions on how to use the script run `.\build-pdf -h` from powershell. 
-
-
-## Things to be done
-- [ ] Move all frontpage parameters to frontmatter values and only show if provided
-- [ ] Fix table layouts to mirror original better
-- [ ] Fix table dividor
-- [ ] Fix table reference number
-- [ ] Fix table reference position
-- [ ] Include diagram in example with reference
-- [ ] Add preface option
-- [ ] Fix LaTeX template (I dont know what I'm doing...)
