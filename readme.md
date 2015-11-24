@@ -10,7 +10,7 @@ Linnaeus University
 
 [Orignal](https://dl.dropboxusercontent.com/u/2202977/original.pdf)
 
-Original found at LNU's homepage.
+[Original found at LNU's homepage.](https://coursepress.lnu.se/subject/thesis-projects/report/)
 
 
 Uses the Creative Commons BY license. The same as the original.
