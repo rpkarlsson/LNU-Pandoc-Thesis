@@ -16,7 +16,7 @@ Is also inspired and borrows heavily from Tom Pollard's [phd_thesis_markdown](ht
 
 
 ## Todo
-- [ ] Move all frontpage parameters to frontmatter values and only show if provided
+- [x] Move all frontpage parameters to frontmatter values and only show if provided
 - [ ] Fix table layouts to mirror original better
 - [ ] Fix table dividor
 - [ ] Fix table reference number

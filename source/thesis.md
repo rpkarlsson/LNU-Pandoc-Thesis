@@ -1,8 +1,12 @@
 ---
-author: "Robin Karlsson"
+author: "Author name"
 title: "Bachelor/Master Thesis Project"
 paper-title: "Title of your thesis project"
 optional-subtitle: "Optional subtitle"
+supervisor: "Supervisor name"
+examiner: "Examiner name"
+semester: "VT/HT 2015"
+subject: "Computer Science"
 abstract: "The report shall begin with a summary, called abstract. The abstract shall not
     be longer than a paragraph, and is not divided into more than one piece. It shall contain:
     A short background description to the area of your project.  A description of your research problem

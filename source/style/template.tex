@@ -1,4 +1,4 @@
-%%----------------------------------------------------------------------------------------
+%----------------------------------------------------------------------------------------
 %
 % LaTeX-template for degree projects at LNU, Department of Computer Science
 % Last updated by Johan Hagelbäck, Oct 2015
@@ -225,11 +225,21 @@ $if(title)$
 \begin{flushright}
 \begin{minipage}{\textwidth}
 \begin{flushleft} \large
-\emph{Author:} Your name here\\ % Author
-\emph{Supervisor:} Name of your supervisor\\ % Supervisor
-\emph{Examiner:} Dr.~Mark \textsc{Brown}\\ % Examiner (course manager)
-\emph{Semester:} VT/HT 2015\\ % 
-\emph{Subject:} Computer Science\\ % Subject area
+$if(author)$
+\emph{Author:} $author$ \\ % Author
+$endif$
+$if(supervisor)$
+\emph{Supervisor:} $supervisor$ \\ % Supervisor
+$endif$
+$if(examiner)$
+\emph{Examiner:} $examiner$ \\ % Examiner (course manager)
+$endif$
+$if(semester)$
+\emph{Semester:} $semester$ \\ % 
+$endif$
+$if(subject)$
+\emph{Subject:} $subject$ \\ % Subject area
+$endif$
 \date{}
 \end{flushleft}
 \end{minipage}
