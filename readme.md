@@ -1,13 +1,13 @@
 ## LNU, Department of Computer Science Markdown Thesis
 
-A setup to render document using the LNU template using Markdown and Pandoc.
+A setup to render a thesis from Markdown to PDF using the LNU LaTeX-template.
 
 After installing Pandoc and pdflatex just run a script to convert your markdown to a stylish pdf.
 For more information on Pandoc and pdflatex see [installing pandoc](http://pandoc.org/installing.html).
 
-Based on the the LaTeX-template for degree projects at LNU, Department of Computer Science
-Last updated by Johan Hagelbäck, Oct 2015
-Linnaeus University
+Based on the the LaTeX-template for degree projects at LNU, Department of Computer Science.
+Last updated by Johan Hagelbäck, Oct 2015.
+Linnaeus University.
 
 Is also inspired and borrows heavily from Tom Pollard's [phd_thesis_markdown](https://github.com/tompollard/phd_thesis_markdown)
 
