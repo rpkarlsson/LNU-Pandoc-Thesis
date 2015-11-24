@@ -2,21 +2,17 @@
 
 A setup to render document using the LNU template using Markdown and Pandoc.
 
-After installing Pandoc and pdflatex run `$ make pdf` to convert markdown to a stylish pdf.
-For more infor on pdflatex see [installing pandoc](http://pandoc.org/installing.html).
+After installing Pandoc and pdflatex a script and  convert markdown to a stylish pdf.
+For more information on Pandoc and pdflatex see [installing pandoc](http://pandoc.org/installing.html).
 
 Based on the the LaTeX-template for degree projects at LNU, Department of Computer Science
 Last updated by Johan Hagelbäck, Oct 2015
 Linnaeus University
 
-[Rendered with pandoc](https://dl.dropboxusercontent.com/u/2202977/thesis.pdf)
+Is also inspired and borrows heavily from Tom Pollard's [phd_thesis_markdown](https://github.com/tompollard/phd_thesis_markdown)
 
-[Orignal](https://dl.dropboxusercontent.com/u/2202977/original.pdf)
-
-[Original found at LNU's homepage.](https://coursepress.lnu.se/subject/thesis-projects/report/)
-
-Is inspired and borrows heavily from Tom Pollard's [phd_thesis_markdown](https://github.com/tompollard/phd_thesis_markdown)
-
+- [Orignal LaTeX](https://dl.dropboxusercontent.com/u/2202977/original.pdf) render with LaTeX
+- [Original found at LNU's homepage.](https://coursepress.lnu.se/subject/thesis-projects/report/)
 
 ## Linux / OS X instructions
 ### Requirements
@@ -28,7 +24,6 @@ Is inspired and borrows heavily from Tom Pollard's [phd_thesis_markdown](https:/
 ```shell
 make
 ```
-
 
 ## Windows instructions
 ### Requirements
