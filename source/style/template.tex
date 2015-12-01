@@ -301,7 +301,12 @@ $if(lof)$
 $endif$
 
 \pagenumbering{arabic}
-\newcommand{\sectionbreak}{\clearpage}
+\newcommand{\sectionbreak}{
+\clearpage
+\setcounter{table}{0}
+\setcounter{figure}{0}
+}
+
 $body$
 
 $if(natbib)$
