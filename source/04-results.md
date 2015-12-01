@@ -18,7 +18,7 @@ Run Bubble Quick Selection Insertion Merge
 TODO: Fix table dividor
 TODO: Fix table reference
 
-What you show heavily depends on the type of research and what type of data you collect. Numerical data can for example be shown in both tables and graphs. A comple- mentary graph for the sorting algorithms example is shown in Figure 4.1. For a question- naire you can show the frequency (how many participants that selected the same answer) of each possible answer to a question.
+What ^[Something something darkside] you show heavily depends on the type of research and what type of data you collect. Numerical data can for example be shown in both tables and graphs. A comple- mentary graph for the sorting algorithms example is shown in Figure 4.1. For a question- naire you can show the frequency (how many participants that selected the same answer) of each possible answer to a question.
 
 ![Execution times for the five sorting algorithms shown as a graph.](source/img/graph.png)
 

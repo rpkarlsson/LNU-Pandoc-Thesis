@@ -11,7 +11,7 @@ Example: if you do a project that is about evaluating software architectures, yo
 
 ## Previous research
 
-Here you briefly describe what others have done in the field or how others have attempted to explain or solve the same or similar problem as you are investigating. It is okay to refer to tech articles and online blogs and portals, but you must also refer to published articles in the field. To find related articles, use the University library search tool OneSearch [^1] or Google Scholar [^2].
+Here you briefly describe what others have done in the field or how others have attempted to explain or solve the same or similar problem as you are investigating. It is okay to refer to tech articles and online blogs and portals, but you must also refer to published articles in the field. To find related articles, use the University library search tool OneSearch ^[http://lnu.se/the-university-library?l=en] or Google Scholar ^[https://scholar.google.com].
 
 ##  Problem formulation
 
@@ -30,9 +30,6 @@ You are also required to make statements about tentative and expected answers to
 Don’t mention anything about research method here. It will be covered in the next chapter.
 
 - TODO: Fix table layout
-
-[^1]: http://lnu.se/the-university-library?l=en 
-[^2]: https://scholar.google.com
 
 |   |    |
 |-----|-------------------------|
