@@ -20,8 +20,7 @@ TODO: Fix table reference
 
 What you show heavily depends on the type of research and what type of data you collect. Numerical data can for example be shown in both tables and graphs. A comple- mentary graph for the sorting algorithms example is shown in Figure 4.1. For a question- naire you can show the frequency (how many participants that selected the same answer) of each possible answer to a question.
 
-TODO: Fix linked diagram
-TODO: Fix diagram footer and reference
+![Execution times for the five sorting algorithms shown as a graph.](source/img/graph.png)
 
-Figure 4.1: Execution times for the five sorting algorithms shown as a graph.
+
 Note that Tables and Figures shall be labeled with chapter.number, for example Table 4.1 and Figure 1.6.
