@@ -1,6 +1,6 @@
 # Introduction
 
-In this chapter[@chris.beams.io] you shall give an introduction to your thesis project.
+In this chapter[@chris.beams.io, p. 38] you shall give an introduction to your thesis project.
 It shall start with a broad overview of what your project is all about. Similar to the
 abstract, the introduction shall make the reader interested in continue reading your report. Don’t be too detailed here; there are plenty of opportunities to add details in later chapters.
 
